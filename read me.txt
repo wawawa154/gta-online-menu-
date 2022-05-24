@@ -1,0 +1,1 @@
+The update version must delete the configuration file of the old version, run the delete configuration program to delete it automatically
